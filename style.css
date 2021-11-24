@@ -5,11 +5,14 @@ body {
 .xnome {
     font-family:Arial, Helvetica, sans-serif;
     font-style:normal;
-    font-size:larger
+    font-size:larger;
 }
 .xdescricao {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-style: oblique;
+position: float;
+right: 10px;
+left: 10px;
 }
 .xnacionalidade {
 color:#284b63;
@@ -31,7 +34,20 @@ font-size: smaller;
 .n5 { 
 font-size: x-small;
 }
+#LRAL {
+    float: left;
+    height: 325px;
+    padding: 10px;
+    background-color: #f1faee;
+}
 
+.image-container {
+    height: 350px;
+    position: relative;
+}
 div {
-    border: 2px solid red;
+    border: 2px solid #e63946;
+}
+#title {
+ text-align: center;
 }
