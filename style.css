@@ -45,9 +45,7 @@ font-size: x-small;
     height: 350px;
     position: relative;
 }
-div {
-    border: 2px solid #e63946;
-}
+
 #title {
  text-align: center;
 }
