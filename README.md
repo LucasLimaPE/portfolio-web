@@ -36,5 +36,3 @@ Seu Portfólio Web deve ter as seguintes informações:\
 
 
 1 - Hospede seu __[Portfólio](https://lucaslimape.github.io/)__ Web no GitHub Pages.
-
-
