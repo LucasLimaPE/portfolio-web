@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Exercícios
+=======
+ # Exercícios
+>>>>>>> ef5920cac3a2c899e1be2edb79415dec85aaf82c
 
 ## Parte I - Construindo portfólio web:
 
@@ -36,5 +40,8 @@ Seu Portfólio Web deve ter as seguintes informações:\
 
 
 1 - Hospede seu __[Portfólio](https://lucaslimape.github.io/)__ Web no GitHub Pages.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ef5920cac3a2c899e1be2edb79415dec85aaf82c
