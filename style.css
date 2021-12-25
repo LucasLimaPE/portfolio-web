@@ -43,15 +43,26 @@ font-size: x-small;
     background-color: #f1faee;
 }
 
+
 .image-container {
     height: 350px;
     position: relative;
+    
+
 }
 
 #title {
  text-align: center;
 }
 
-ol li :nth-child(odd) {
+ol li:nth-child(odd) {
     background-color: #d9d9d9;
+}
+
+.text-left-image {
+    height: 350px;
+    position: relative;
+    margin-left: 250px;
+    
+
 }
