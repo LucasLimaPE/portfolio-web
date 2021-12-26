@@ -1,6 +1,6 @@
 body {
-    background-color: #3c6e71;
-            color: #d9d9d9;
+    background-color: #15616d;
+            color: #ffecd1;
             padding: 3%;
 
 }
@@ -17,7 +17,7 @@ right: 10px;
 left: 10px;
 }
 .xnacionalidade {
-color:#284b63;
+color: #ff7d00;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 font-style: initial;
 }
@@ -40,29 +40,23 @@ font-size: x-small;
     float: left;
     height: 325px;
     padding: 10px;
-    background-color: #f1faee;
+    background-color: #78290f;
 }
-
-
 .image-container {
     height: 350px;
     position: relative;
-    
-
 }
 
-#title {
+.title {
  text-align: center;
 }
 
-ol li:nth-child(odd) {
-    background-color: #d9d9d9;
+ul li:nth-child(odd) {
+    background-color: #001524;
 }
 
 .text-left-image {
     height: 350px;
     position: relative;
-    margin-left: 250px;
-    
-
+    margin-left: 330px;
 }
